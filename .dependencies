@@ -1,0 +1,123 @@
+git:
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
+        branch: master
+    archives:
+        url: https://github.com/getgrav/grav-plugin-archives
+        path: user/plugins/archives
+        branch: master
+    breadcrumbs:
+        url: https://github.com/getgrav/grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        branch: master
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    login:
+        url: https://github.com/getgrav/grav-plugin-login
+        path: user/plugins/login
+        branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    relatedpages:
+        url: https://github.com/getgrav/grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        branch: master
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: master
+    taxonomylist:
+        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        branch: master
+    bootstrap-blog:
+        url: https://github.com/ayozehd/grav-theme-bootstrap-blog
+        path: user/themes/bootstrap-blog
+        branch: master
+
+links:
+    admin:
+        url: grav-plugin-error
+        path: user/plugins/admin
+        scm: github
+    archives:
+        url: grav-plugin-archives
+        path: user/plugins/archives
+        branch: master
+    breadcrumbs:
+        url: grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        scm: github
+    email:
+        url: grav-plugin-email
+        path: user/plugins/email
+        scm: github
+    error:
+        url: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    feed:
+        url: grav-plugin-feed
+        path: user/plugins/feed
+        scm: github
+    form:
+        url: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    login:
+        url: grav-plugin-login
+        path: user/plugins/login
+        scm: github
+    pagination:
+        url: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github
+    problems:
+        url: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    relatedpages:
+        url: grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        scm: github
+    simplesearch:
+        url: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        scm: github
+    sitemap:
+        url: grav-plugin-sitemap
+        path: user/plugins/sitemap
+        scm: github
+    taxonomylist:
+        url: grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        scm: github
+    bootstrap-blog:
+        url: bootstrap-blog
+        path: user/themes/bootstrap-blog
+        scm: github

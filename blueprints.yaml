@@ -1,0 +1,17 @@
+name: Bootstrap Blog
+version: 1.3.6
+description: ""
+icon: bootstrap
+author:
+ name: Ayoze Hernandez Diaz
+ email: ayoze.dev@gmail.com
+ url: https://ayozehd.com
+homepage: https://github.com/ayozehd/grav-theme-bootstrap-blog
+demo: https://bootstrap-blog.ayozehd.com/
+docs: https://bootstrap-blog.ayozehd.com/doc
+keywords: bootstrap, blog, flat
+bugs: https://github.com/ayozehd/grav-theme-bootstrap-blog/issues
+license: MIT
+
+dependencies:
+  - bootstrap-blog
