@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 route: /admin
 cache_enabled: false
 theme: grav
