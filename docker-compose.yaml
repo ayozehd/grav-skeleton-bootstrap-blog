@@ -1,18 +1,12 @@
 version: '3'
 
 services:
-    nginx:
+    grav:
         build:
             context: .
-        volumes: 
-            - ./certbot/conf:/etc/letsencrypt
-            - ./certbot/www:/var/www/certbot
-            #- ./pages:/var/www/html/user/pages
-            - ${DATA}:/var/www/html/user/data
-        ports:
-            - "${PORT}:8080"
-    certbot:
-        image: certbot/certbot
+        restart: always
         volumes:
-            - ./certbot/conf:/etc/letsencrypt
-            - ./certbot/www:/var/www/certbot
+            - ./pages:/var/www/html/user/pages
+            - ./config:/var/www/html/user/config
+        ports:
+            - "8080:8080"

@@ -12,9 +12,6 @@ themes/*
 # Docker
 .env
 
-# Certbot
-certbot/*
-
 # OS Generated
 .DS_Store*
 thumbs.db
