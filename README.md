@@ -27,7 +27,7 @@ Or download the skeleton from [Grav](https://getgrav.org/downloads/skeletons), u
 
 1. Install [Docker CE](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 2. Download and this skeleton
-3. Copy content of `webserver-config/docker` to root folder
+3. Copy content of `webserver-config/.docker` to root folder
 4. Run `docker-compose up -d --build` (`-d` flag to deamonize process)
 5. Access to [http://localhost:8080/](http://localhost:8080)
 
